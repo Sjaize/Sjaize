@@ -1,6 +1,4 @@
-<div align="center">
-
-# 오종현 | Jonghyeon Oh 🐳
+## 오종현 | Jonghyeon Oh 🐳
 
 주변과 조화를 이루며 함께 나아가고,
 더 나은 결과를 향해 주도적으로 성장하는 개발자입니다.
@@ -10,15 +8,10 @@
 결과가 완성될 때까지 책임지는 태도를 중요하게 생각합니다.
 
 
-</div>
-
----
-
 ## 🔎 Interests
 
 `Backend Engineering` · `Data Engineering` · `DevOps`
 
----
 
 ## 🛠 Tech Stack
 
@@ -53,8 +46,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
 
----
-
 ## 🚀 Activities
 
 * 경희대학교 데이터 분석·AI 학회 **KHUDA 2기, 7기, 9기 수료**
@@ -65,8 +56,6 @@
 * `2026.02 – Present` **AWS Student Builder Groups at KHU** 활동
 * `2026.03 – 2026.05` Upstage × 5개 대학 연합 생성형 AI 경진대회 **ICAC 2026 기획·주최 및 운영 플랫폼 개발**
 * `2026.03 – Present` **생성형 AI·AX 교육 보조강사** 활동
-
----
 
 ## 🏅 Certification
 
