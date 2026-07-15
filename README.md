@@ -11,8 +11,6 @@
 
 </div>
 
-<br>
-
 ## 🔎 Interests
 
 `Backend Engineering` · `Data Engineering` · `DevOps`
@@ -49,8 +47,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-
-<br>
 
 ## 🚀 Activities
 
