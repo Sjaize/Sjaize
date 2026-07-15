@@ -1,4 +1,5 @@
 <div align="center">
+
 오종현 | Jonghyeon Oh 🐳
 
 주변과 조화를 이루며 함께 나아가고,
@@ -13,8 +14,6 @@
 ## 🔎 Interests
 
 `Backend Engineering` · `Data Engineering` · `DevOps`
-
-<br>
 
 ## 🛠 Tech Stack
 
