@@ -1,3 +1,4 @@
+<div align="center">
 ## 오종현 | Jonghyeon Oh 🐳
 
 주변과 조화를 이루며 함께 나아가고,
@@ -6,12 +7,13 @@
 맡은 일을 단순히 주어진 과제로 여기기보다
 제 이름이 걸린 일처럼 깊이 몰입하고,
 결과가 완성될 때까지 책임지는 태도를 중요하게 생각합니다.
-
+</div>
 
 ## 🔎 Interests
 
 `Backend Engineering` · `Data Engineering` · `DevOps`
 
+<br>
 
 ## 🛠 Tech Stack
 
@@ -45,6 +47,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+
+<br>
 
 ## 🚀 Activities
 
