@@ -58,7 +58,7 @@
 * `2025.12 – 2026.07` 경희대학교 데이터 분석·AI 학회 **KHUDA 9기 데이터 엔지니어링 트랙장**
 * `2026.02 – Present` **AWS Student Builder Groups at KHU** 활동
 * `2026.03 – 2026.05` Upstage × 5개 대학 연합 생성형 AI 경진대회 **ICAC 2026 기획·주최 및 운영 플랫폼 개발**
-* `2026.03 – Present` **생성형 AI·AX 교육 보조강사** 활동
+* `2026.03 – Present` **기업 대상 생성형 AI·AX 교육 보조강사** 활동
 
 ## 🏅 Certification
 
