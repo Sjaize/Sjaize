@@ -13,7 +13,7 @@
 
 ## 🔎 Interests
 
-`Backend Engineering` · `Data Engineering` · `DevOps`
+`Backend & Infrastructure Engineering`
 
 ## 🛠 Tech Stack
 
@@ -29,24 +29,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-### Data Engineering
-
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square\&logo=apacheairflow\&logoColor=white)
-
 ### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-
-### Frontend & Mobile Experience
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
 
 ## 🚀 Activities
 
@@ -63,3 +49,5 @@
 ## 🏅 Certification
 
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![정보처리기사](https://img.shields.io/badge/정보처리기사-Engineer_Information_Processing-007396?style=flat-square)
